@@ -9,6 +9,7 @@ fenn auth [login] [--profile] [--api-key] [status] [--profile] [logout] [--profi
 
 ### Arguments
 One of subcomand (login, status or logout) is required for `auth` command
+
 - `[login]`: Save an API key for a profile
 - `[--api-key]` (optional): API key (if omitted, will prompt or read from stdin)
 - `[--profile]` (optional): Profile name (default: 'default')
