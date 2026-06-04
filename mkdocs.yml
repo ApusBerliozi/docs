@@ -60,6 +60,7 @@ nav:
   - Community:
     - Contributing: content/community/contributing.md
     - Code of Conduct: content/community/code_of_conduct.md
+  - API Reference: https://api.pyfenn.org
 
 markdown_extensions:
   - admonition
